@@ -1,0 +1,20 @@
+#logo{
+    width: 20vw;
+    height: 20vh;
+}
+#category{
+    
+   height: 60vh;
+}
+#feature{
+    background: rgb(0,121,230);
+    background:linear-gradient(0deg , rgba(0,121,230,1) 0%,rgba(0,250,255,1) 90%)
+}
+#abt
+{
+    height: 75vh;
+    width: 80vw;
+}
+#abt1{
+    height: 25vh;
+}
